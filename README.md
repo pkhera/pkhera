@@ -1,6 +1,6 @@
 ### Hi there, I'm Piyush. 👋
 
-I've lived in the San Francisco Bay Area 2 years and worked in tech for a decade.
+I've lived in the San Francisco Bay Area 4 years and worked in tech for a decade.
 
 
 - 🔭 I’m currently working on 
@@ -11,7 +11,7 @@ I've lived in the San Francisco Bay Area 2 years and worked in tech for a decade
 - 💬 Ask me about running **Java** services on cloud.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piyushkhera1/), [Twitter](https://twitter.com/pkhera)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have live in 7 cities in 3 countries.
+- ⚡ Fun fact: I have lived in 7 cities in 3 countries.
 <!--
 **pkhera/pkhera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
