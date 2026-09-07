@@ -1,6 +1,6 @@
 ### Hi there, I'm Piyush Khera 👋
 
-Software engineer who builds data platforms; senior engineering leader and hands-on software engineer with **14+ years** building and operating large-scale enterprise SaaS — deep in **backend architecture, distributed systems, and cloud infrastructure**, and applying **Generative AI** in production.
+Software engineer who builds data platforms, and a senior engineering leader and hands-on engineer with **14+ years** building and operating large-scale enterprise SaaS — deep in **backend architecture, distributed systems, and cloud infrastructure**, and applying **Generative AI** in production.
 
 📍 San Francisco Bay Area · 🧑‍💻
 
