@@ -1,15 +1,15 @@
 ### Hi there, I'm Piyush Khera 👋
 
-Software engineer who builds data platforms, and a senior engineering leader and hands-on engineer with **14+ years** building and operating large-scale enterprise SaaS — deep in **backend architecture, distributed systems, and cloud infrastructure**, and applying **Generative AI** in production.
+Software engineer who builds data platforms, with **14+ years** as a senior engineering leader and hands-on engineer building and operating large-scale enterprise SaaS — deep in **backend architecture, distributed systems, and cloud infrastructure**, and applying **Generative AI** in production.
 
 📍 San Francisco Bay Area · 🧑‍💻
 
 **What I do**
 - **Backend & distributed systems** — Java (core), Spring Boot, API design, data modeling, message-based architectures at enterprise scale
-- **Cloud & platform** — AWS (EKS, Aurora, S3, OpenSearch, Bedrock, SageMaker), Terraform, Kubernetes, Docker; led Windows→Linux migrations and cloud cost optimization
-- **Connectors & connectivity** — sole author and long-term owner of the flagship REST connector (~88% of its production code); among the top contributors to a 130+ engineer connector platform, designing async-extraction, scheduling, and retry contracts adopted across its connector modules
+- **Cloud & platform** — AWS (EKS, Aurora, S3, OpenSearch, Bedrock, SageMaker), Terraform, Kubernetes, Docker, plus Windows→Linux migrations and cloud cost optimization
+- **Connectors & connectivity** — sole author of the flagship REST connector (~88% of its production code) and among the top contributors to the connector platform, designing the async-extraction, scheduling, and retry contracts adopted across its connector modules
 - **Applied Generative AI** — RAG, LLM-powered agents, MCP servers, evaluation frameworks, and agentic AI systems in production (LangChain4j + Bedrock/SageMaker)
-- **Engineering leadership** — lead cross-functional teams across the US, India, and Canada; hands-on player-coach who still ships production code
+- **Engineering leadership** — lead cross-functional teams across the US, India, and Canada, and stay a hands-on player-coach who still ships production code
 
 **Highlights**
 - Built a dialect-abstracted SQL query-generation layer in 2017 that 14 database dialects and the platform's later migrations built on with no core redesign
